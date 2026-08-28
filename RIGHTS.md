@@ -4,19 +4,9 @@ Copyright © 2026. **All rights reserved.**
 
 RHEA Kernel is a proprietary project.
 
-Unless expressly stated otherwise in writing, **no license is granted** to reproduce, modify, distribute, sublicense, sell, commercially exploit, or create derivative works from proprietary RHEA Kernel materials.
+Unless expressly stated otherwise in writing, publication of this repository does not grant a license to unpublished RHEA Kernel materials.
 
-This repository does **not** publish or license:
-
-- RHEA Kernel source code
-- Algorithms
-- Architecture
-- Internal technical mechanisms
-- Unpublished documentation
-- Private datasets or test infrastructure
-- Proprietary implementation details
-
-The public purpose statement, benchmark summaries, and cryptographic fingerprints published in this repository do not constitute a grant of rights over the proprietary RHEA Kernel implementation.
+The repository contains selected public-purpose statements, validation results, and cryptographic integrity references. Technical implementation and unpublished supporting material remain private.
 
 Nothing in this notice restricts rights that cannot legally be restricted under applicable law.
 

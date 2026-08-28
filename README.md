@@ -1,46 +1,35 @@
 # RHEA Kernel
 
-**RHEA Kernel** is an experimental AI-efficiency project focused on reducing the computational, token, latency, and energy cost associated with LLM-based workloads while preserving output quality.
+**RHEA Kernel** is an experimental AI-efficiency project focused on reducing computational, token, latency, and energy cost in LLM-based workloads while preserving output quality.
 
-This repository exists as a **public record of the project's existence, development, and experimental results**.
+This repository exists as a **public record of the project's existence, development, and selected experimental results**.
 
 ## Public scope
 
-This repository intentionally contains:
+This repository intentionally contains only:
 
-- The high-level purpose of RHEA Kernel.
-- Selected experimental results.
-- Public cryptographic fingerprints of private frozen project artifacts.
-- Rights and disclosure notices.
+- high-level project purpose;
+- selected validation outcomes;
+- cryptographic fingerprints of retained private artifacts;
+- dated public records; and
+- rights and disclosure notices.
 
-## What is NOT disclosed
+## Disclosure boundary
 
-The following are proprietary and intentionally not published:
+Technical implementation and unpublished supporting material remain private.
 
-- Source code
-- Algorithms
-- Architecture
-- Internal operating mechanisms
-- Heuristics
-- Decision logic
-- Data structures
-- Model-routing logic
-- Implementation details
-- Private test infrastructure
-- Any information sufficient to reconstruct the system
+The public repository is intended to document **that RHEA Kernel exists and has produced the stated validation results**, not to document how those results are achieved or provide information sufficient to reconstruct the system.
 
 RHEA Kernel is **not open source**.
 
-No public statement in this repository should be interpreted as disclosure of the proprietary implementation or internal technical mechanisms of RHEA Kernel.
-
 ## Current status
 
-RHEA Kernel is under active private development and experimental validation.
+RHEA Kernel remains under active private development and experimental validation.
 
-See [RESULTS.md](RESULTS.md) for selected benchmark results and [PROOF.md](PROOF.md) for public fingerprints of frozen private artifacts.
+See [RESULTS.md](RESULTS.md) for selected historical benchmark results, [PROOF.md](PROOF.md) for public fingerprints of earlier frozen private artifacts, and [VALIDATION_RECORD_2026-08-29.md](VALIDATION_RECORD_2026-08-29.md) for the latest dated public validation record.
 
 ## Rights
 
 Copyright © 2026. All rights reserved.
 
-See [RIGHTS.md](RIGHTS.md).
+See [LICENSE](LICENSE) and [RIGHTS.md](RIGHTS.md).
